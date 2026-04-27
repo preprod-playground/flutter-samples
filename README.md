@@ -1,4 +1,4 @@
-# Flutter samples - List of sample projects
+# Flutter samples - List of dart sample projects
 
 [![Build Status](https://github.com/flutter/samples/workflows/Main%20Branch%20CI/badge.svg)](https://github.com/flutter/samples/actions?workflow=Main%20Branch%20CI)
 
